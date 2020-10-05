@@ -1,6 +1,6 @@
 # Herramientas de troubleshooting
 
-Este container tiene como finalidad otorgar herramientas de troubleshooting para su día a día.
+Este container tiene como finalidad otorgar herramientas de troubleshooting para su día a día en Kubernetes.
 
 * curl
 * ss
